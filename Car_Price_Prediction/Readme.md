@@ -1,4 +1,4 @@
-#Used Car Price Prediction using Machine Learning  
+#Used Car Price Prediction using Machine Learning
 To be able to predict used cars market value can help both buyers and sellers. 
 
 There are lots of individuals who are interested in the used car market at some points in their life because they wanted to sell their car or buy a used car. 
