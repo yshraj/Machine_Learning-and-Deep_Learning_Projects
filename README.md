@@ -4,7 +4,9 @@ This repository contains well formatted code for implementation of various Machi
 Languages : Python
 File formats : .ipynb, .py
 
-##My Profile Links
+
+# My Profile Links
+
 LinkedIn ► https://www.linkedin.com/in/yash-darji/
 Website ► https://yshraj.pythonanywhere.com/
 
